@@ -1,5 +1,3 @@
-# 你好！Hello！
+# Hello！
 
-我是 KYLN24，大学学生，现就读于复旦大学
-
-I'm KYLN24, a student in Fudan University.
+I'm KYLN24, a student in Fudan NLP Lab Fudan University.
